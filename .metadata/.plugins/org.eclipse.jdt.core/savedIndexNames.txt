@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\thiago.sato\dev\projetos_alura\.metadata\.plugins\org.eclipse.jdt.core
+57156802.index
+1865797976.index
